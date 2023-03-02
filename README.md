@@ -6,7 +6,7 @@ Web Developer
 
 I'm working as a Junior Developer at Abaris Consulting AS while attending 2 year Frontend course on Noroff School of Technology and Digital Media.
 
-Skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Redux, Formik, Yup.
+Skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Redux, Formik, Yup, Leaflet.
 
 Basic skills in: C#, Python, SQL.
 
