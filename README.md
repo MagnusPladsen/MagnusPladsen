@@ -20,7 +20,9 @@ Basic skills in: C#, Python, SQL, Dapper, .NET6
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusPladsen&layout=compact)](https://github.com/MagnusPladsen/github-readme-stats)
+[![Magnus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MagnusPladsen&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusPladsen&layout=compact&theme=dark)](https://github.com/MagnusPladsen/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=MagnusPladsen&color=blue)
