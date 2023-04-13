@@ -18,8 +18,6 @@ Basic skills in: C#, Python, SQL, Dapper, .NET6
 *   🧠  I'm learning C# && .NET 6 REST API
 *   ⚡  I have worked as a Department Manager / Sales Leader at <a href="https://www.power.no">Power</a>
 
-</br>
-</br>
 
 
 ### GitHub Stats
