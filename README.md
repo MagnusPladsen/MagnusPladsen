@@ -8,7 +8,7 @@ I'm working as a Junior Developer at Abaris Consulting AS while attending 2 year
 
 I'm specialized in Frontend but I'm also learning Backend.
 
-Skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Redux, Formik, Yup, Leaflet.
+Skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Redux, Formik, Yup, Leaflet, Adobe XD and Figma.
 
 Basic skills in: C#, Python, SQL, Dapper, .NET6
 
