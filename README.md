@@ -13,7 +13,7 @@ Skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Redux, Form
 Basic skills in: C#, Python, SQL, Dapper, .NET6
 
 *   🌍  I'm based in Lillehammer, Norway
-*   🖥️  See my portfolio at [pladsen.dev (Not updated in a while)](http://pladsen.dev)
+*   🖥️  See my portfolio at [pladsen.dev](http://pladsen.dev)  **Not updated in a while**
 *   ✉️  You can contact me at [magnus\_pladsen@hotmail.com](mailto:magnus_pladsen@hotmail.com)
 *   🧠  I'm learning C# && .NET 6 REST API
 *   ⚡  I have worked as a Department Manager / Sales Leader at <a href="https://www.power.no">Power</a>
