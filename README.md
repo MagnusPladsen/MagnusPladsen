@@ -4,15 +4,17 @@ Hi 👋 My name is Magnus Pladsen
 Web Developer
 -------------
 
-I'm working as a Junior Developer at Abaris Consulting AS while attending 2 year Frontend course on Noroff School of Technology and Digital Media.
+I'm working as a Junior Developer at Abaris Consulting AS while attending a 2 year Frontend course on Noroff School of Technology and Digital Media.
 
-I'm specialized in Frontend but I'm also learning Backend.
+I'm specializing in Frontend but I'm also learning Backend.
 
 Skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Redux, Formik, Yup, Leaflet, Adobe XD and Figma.
 
-Basic skills in: C#, Python, SQL, Dapper, .NET6
+Basic skills in: Bootstrap, C#, Python, SQL, Dapper, .NET 6
 
-*   🌍  I'm based in Lillehammer, Norway
+Next up: Svelte, Million.js, Vue
+
+*   🌍  I'm located in Lillehammer, Norway
 *   🖥️  See my portfolio at [pladsen.dev](http://pladsen.dev)  **Not updated in a while**
 *   ✉️  You can contact me at [magnus\_pladsen@hotmail.com](mailto:magnus_pladsen@hotmail.com)
 *   🧠  I'm learning C# && .NET 6 REST API
