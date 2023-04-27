@@ -20,6 +20,8 @@ Next up: Svelte, Million.js, Vue
 *   🧠  I'm learning C# && .NET 6 REST API
 *   ⚡  I have worked as a Department Manager / Sales Leader at <a href="https://www.power.no">Power</a>
 
+https://howivscode.com/MagnusPladsen
+
 
 
 ### GitHub Stats
