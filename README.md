@@ -10,7 +10,7 @@ I'm specializing in Frontend but I'm also learning Backend.
 
 Skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Redux, Formik, Yup, Leaflet, Adobe XD and Figma.
 
-Basic skills in: Bootstrap, C#, Python, SQL, Dapper, .NET 6
+Basic skills in: JEST, Bootstrap, C#, Python, SQL, Dapper, .NET 6
 
 Next up: Svelte, Million.js, Vue
 
