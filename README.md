@@ -28,6 +28,6 @@ I'm working as a Junior Developer at Abaris Consulting AS while attending a 2 ye
 ![](https://github-contributor-stats.vercel.app/api?username=magnuspladsen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=magnuspladsen&icon=2&color=4)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=MagnusPladsen&color=red)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
