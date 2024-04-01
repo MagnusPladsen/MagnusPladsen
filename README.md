@@ -2,7 +2,8 @@ Hi 👋 My name is Magnus Pladsen
 ===============================
 
 # 💫 About Me:
-I'm working as a Junior Developer at Abaris Consulting AS while attending a 2 year Frontend course on Noroff School of Technology and Digital Media.<br><br>I'm specializing in Frontend but I'm also learning a little Backend.
+I'm working as a Junior Developer at Abaris Consulting AS.
+I have done a 2 year Frontend course on Noroff School of Technology and Digital Media.<br><br>I'm specializing in Frontend but I'm also learning a little Backend.
 
 *   🌍  I'm located in Lillehammer, Norway
 *   🖥️  See my portfolio at [pladsen.dev](http://pladsen.dev)  **[Not updated in a while]**
