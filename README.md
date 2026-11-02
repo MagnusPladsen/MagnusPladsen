@@ -33,9 +33,6 @@ Platforms   Vercel · Cloudflare · Azure
 ### Work
 
 **Fullstack Developer** · Abaris Consulting AS · 2024 – present
-- Lead frontend developer on a volunteer coordination platform used by 500+ clubs and organizations
-- Sole developer on a complete scheduling system in React, integrated with an existing .NET Framework solution
-- Lead frontend developer on a React Native freight & marketplace app
 
 **Trainee Developer** · Abaris Consulting AS · 2022 – 2024
 
