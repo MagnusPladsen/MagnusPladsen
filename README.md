@@ -2,7 +2,7 @@
 
 **Full-stack developer** · Lillehammer, Norway
 
-Frontend-focused developer building modern web applications with React, Next.js, and Tailwind CSS — with React Native and .NET on the backend. Currently working at [Abaris Consulting AS](https://www.abaris.no), shipping products used by 500+ organizations.
+Frontend-focused developer building modern web applications with React, Next.js, and Tailwind CSS — with React Native and .NET on the backend. Currently working at [Abaris Consulting AS](https://www.abaris.no).
 
 [![Website](https://img.shields.io/badge/pladsen.dev-000?style=flat&logo=googlechrome&logoColor=white)](https://pladsen.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magnus-pladsen-1a2738226)
@@ -16,10 +16,6 @@ Frontend-focused developer building modern web applications with React, Next.js,
 🎮 **[Gamedev Studio](https://gamedev-studio.pladsen.dev)** — Free, open source game development toolkit: pixel art editor, music & SFX composer, tilemaps, dialogue trees, story & worldbuilding, logic diagrams. All connected, no watermarks, no paywalls.
 
 🍎 **[Proton-ish](https://proton-ish.pladsen.dev)** — Steam Play for macOS. Run Windows-only Steam games on your Mac. Available via [Homebrew](https://github.com/MagnusPladsen/homebrew-tap).
-
-🎪 **[Abaris Festival](https://github.com/MagnusPladsen/abaris-festival)** — Configurable event booking platform with interactive map views and seat reservations.
-
-🚚 **[Fraktas](https://github.com/MagnusPladsen/fraktas-app)** — React Native app connecting people and businesses for freight shipping, with a built-in marketplace.
 
 ---
 
