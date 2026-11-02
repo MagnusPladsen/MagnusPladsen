@@ -1,24 +1,52 @@
-Hi 👋 My name is Magnus Pladsen
-===============================
+# Magnus Pladsen
 
-# 💫 About Me:
-I'm working as a Junior Developer at Abaris Consulting AS.
-I have done a 2 year Frontend course on Noroff School of Technology and Digital Media.<br><br>I'm specializing in Frontend but I'm also learning a little Backend.
+**Full-stack developer** · Lillehammer, Norway
 
-*   🌍  I'm located in Lillehammer, Norway
-*   🖥️  See my portfolio at [pladsen.dev](http://pladsen.dev)  **[Not updated in a while]**
-*   ✉️  You can contact me at [magnus\_pladsen@hotmail.com](mailto:magnus_pladsen@hotmail.com)
-*   ⚡  I have worked as a Department Manager / Sales Leader at <a href="https://www.power.no">Power</a>
-*   VSC https://howivscode.com/MagnusPladsen <br>
+Frontend-focused developer building modern web applications with React, Next.js, and Tailwind CSS — with React Native and .NET on the backend. Currently working at [Abaris Consulting AS](https://www.abaris.no), shipping products used by 500+ organizations.
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ttarmor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/magnus-pladsen-1a2738226/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![Website](https://img.shields.io/badge/pladsen.dev-000?style=flat&logo=googlechrome&logoColor=white)](https://pladsen.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magnus-pladsen-1a2738226)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/252493393303830528)
+[![CV](https://img.shields.io/badge/Download_CV-gray?style=flat&logo=adobeacrobatreader&logoColor=white)](https://cv.pladsen.dev)
 
 ---
-![](https://komarev.com/ghpvc/?username=MagnusPladsen&color=red)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I'm building
+
+🎮 **[Gamedev Studio](https://gamedev-studio.pladsen.dev)** — Free, open source game development toolkit: pixel art editor, music & SFX composer, tilemaps, dialogue trees, story & worldbuilding, logic diagrams. All connected, no watermarks, no paywalls.
+
+🍎 **[Proton-ish](https://proton-ish.pladsen.dev)** — Steam Play for macOS. Run Windows-only Steam games on your Mac. Available via [Homebrew](https://github.com/MagnusPladsen/homebrew-tap).
+
+🎪 **[Abaris Festival](https://github.com/MagnusPladsen/abaris-festival)** — Configurable event booking platform with interactive map views and seat reservations.
+
+🚚 **[Fraktas](https://github.com/MagnusPladsen/fraktas-app)** — React Native app connecting people and businesses for freight shipping, with a built-in marketplace.
+
+---
+
+### Tech
+
+```
+Frontend    React · Next.js · React Native · Tailwind CSS · TypeScript
+Backend     .NET · C# · Node.js · Bun
+Tools       Git · Neovim · Zed · Claude Code · AeroSpace
+Platforms   Vercel · Cloudflare · Azure
+```
+
+---
+
+### Work
+
+**Fullstack Developer** · Abaris Consulting AS · 2024 – present
+- Lead frontend developer on a volunteer coordination platform used by 500+ clubs and organizations
+- Sole developer on a complete scheduling system in React, integrated with an existing .NET Framework solution
+- Lead frontend developer on a React Native freight & marketplace app
+
+**Trainee Developer** · Abaris Consulting AS · 2022 – 2024
+
+### Education
+
+**Noroff School of Technology and Digital Media** · 2022 – 2024 · Grade A
+
+---
+
+<sub>69 public repos · [Browse them all →](https://pladsen.dev/repos)</sub>
