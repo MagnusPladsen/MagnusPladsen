@@ -41,8 +41,8 @@ Frontend-focused developer building modern web applications with React, Next.js,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MagnusPladsen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusPladsen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages" />
+<img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=MagnusPladsen&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
