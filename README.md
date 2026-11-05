@@ -21,17 +21,9 @@ Frontend-focused developer building modern web applications with React, Next.js,
 
 ✈️ **[Flightdeck](https://flightdeck.pladsen.dev)** — macOS menu bar app that monitors your AI agents, dev servers, and system resources. Available via [Homebrew](https://github.com/MagnusPladsen/homebrew-tap).
 
-<a href="https://flightdeck.pladsen.dev">
-  <img src="https://raw.githubusercontent.com/MagnusPladsen/flightdeck/main/docs/screenshots/overview.png" width="600" alt="Flightdeck — agent and system monitor for developers" />
-</a>
-
 🎮 **[Gamedev Studio](https://gamedev-studio.pladsen.dev)** — Free, open source game development toolkit: pixel art editor, music & SFX composer, tilemaps, dialogue trees, story & worldbuilding, logic diagrams. All connected, no watermarks, no paywalls.
 
 🍎 **[Proton-ish](https://proton-ish.pladsen.dev)** — Steam Play for macOS. Run Windows-only Steam games on your Mac. Available via [Homebrew](https://github.com/MagnusPladsen/homebrew-tap).
-
-<a href="https://proton-ish.pladsen.dev">
-  <img src="https://raw.githubusercontent.com/MagnusPladsen/Proton-ish/main/docs/screenshots/emberward-running-highball.png" width="600" alt="Proton-ish — Windows game running on macOS via Steam" />
-</a>
 
 ---
 
