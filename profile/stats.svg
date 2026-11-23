@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Magnus Pladsen&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 93, Total Commits  (last year) : 2186, Total PRs: 269, Total Issues: 202, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 94, Total Commits  (last year) : 2186, Total PRs: 270, Total Issues: 202, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.29769071627229;
+        stroke-dashoffset: 60.07349996705107;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >93</text>
+      >94</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >269</text>
+      >270</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
